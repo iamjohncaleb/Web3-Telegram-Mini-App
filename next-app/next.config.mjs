@@ -1,3 +1,6 @@
+
+
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   // fixes wallet connect dependency issue https://docs.walletconnect.com/web3modal/nextjs/about#extra-configuration
