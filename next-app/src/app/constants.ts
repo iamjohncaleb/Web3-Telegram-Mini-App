@@ -1,6 +1,5 @@
 
 
-
 import { createThirdwebClient, getContract } from "thirdweb";
 import { baseSepolia, defineChain } from "thirdweb/chains";
 import { inAppWallet, SmartWalletOptions } from "thirdweb/wallets";
